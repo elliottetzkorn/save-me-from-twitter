@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>God Help Us</title>
+</svelte:head>
+
 <div class="container mx-auto ">
 	<img alt="heaven" class="w-full sm:px-4" src="/field.jpg" />
 	<div class="flex flex-row mt-4 px-4">
